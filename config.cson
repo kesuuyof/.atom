@@ -1,0 +1,20 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "remote-edit"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "Source Han Code JP"
+    fontSize: 13
+  "exception-reporting":
+    userId: "48d32cf3-d673-a3c7-0481-627d80f3f582"
+  "sync-settings":
+    _lastBackupHash: "5d601f4521c16ca6841bf9099972a88f61afee34"
+    gistId: "0507d0a1c9e258a29d9e"
+    personalAccessToken: "c8dc08cd5f2f0474209759a2734cab2e77a67cad"
+  welcome:
+    showOnStartup: false
